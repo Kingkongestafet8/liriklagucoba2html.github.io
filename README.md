@@ -1,1 +1,1 @@
-belajar .html
+ liriklagucoba2html.github.io
